@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -48,4 +48,3 @@ penultimate(X, [_|Tail]) :-
 % ?- penultimate(X, [a, b, c, d]).
 % X = c.
 % ----------------------------------------------
-```
