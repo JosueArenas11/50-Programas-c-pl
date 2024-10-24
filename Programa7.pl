@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -65,4 +65,4 @@ my_flatten(X, [X]) :- X \= [], \+ is_list(X).
 % ?- my_flatten([a, [b, c], d], Flat).
 % Flat = [a, b, c, d].
 % ----------------------------------------------
-```
+
