@@ -1,5 +1,5 @@
-```c#
-% ===============================================
+
+% ==============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
 % Descripción: Programa en Prolog que codifica directamente 
@@ -87,4 +87,3 @@ count(X, [Y|Ys], 0, [Y|Ys]) :- X \= Y.
 % ?- encode_direct([a, a, b, c, c, d, d, d], R).
 % R = [[2, a], [1, b], [2, c], [3, d]].
 % ----------------------------------------------
-```
