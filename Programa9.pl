@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -82,4 +82,4 @@ transfer(X, [X|Xs], [X|Ys], Rest) :-
 % ?- pack([a, a, b, c, c, d, d, d], Packed).
 % Packed = [[a, a], [b], [c, c], [d, d, d]].
 % ----------------------------------------------
-```
+
