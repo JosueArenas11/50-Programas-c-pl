@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -59,4 +59,4 @@ lotto(N, M, L) :-
 % ?- lotto(5, 49, L).
 % L = [3, 17, 25, 8, 12]. % El resultado puede variar por ser aleatorio.
 % ----------------------------------------------
-```
+
