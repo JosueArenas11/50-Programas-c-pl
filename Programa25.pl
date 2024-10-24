@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -54,4 +54,4 @@ rnd_permu(L, P) :-
 % ?- rnd_permu([a, b, c, d, e], P).
 % P = [c, e, a, b, d]. % El resultado puede variar por ser aleatorio.
 % ----------------------------------------------
-```
+
