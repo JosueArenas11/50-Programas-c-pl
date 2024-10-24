@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -52,5 +52,3 @@ reverse_list([H|T], Acc, R) :-
 % Ejemplo de uso:
 % ?- reverse_list([a, b, c, d], R).
 % R = [d, c, b, a].
-% ----------------------------------------------
-```
