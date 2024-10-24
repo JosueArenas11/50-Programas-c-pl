@@ -1,5 +1,3 @@
-```c#
-% ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
 % Descripción: Programa en Prolog que crea una lista 
@@ -58,4 +56,3 @@ range(I, K, [I|R]) :-
 % ?- range(1, 5, R).
 % R = [1, 2, 3, 4, 5].
 % ----------------------------------------------
-```
