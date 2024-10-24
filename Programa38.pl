@@ -17,13 +17,13 @@ is_prime(N) :- N > 2, \+ (between(2, sqrt(N), X), N mod X =:= 0).
 % Ejemplo de uso:
 % ?- prime_list(10, 30, Primes).
 % Primes = [11, 13, 17, 19, 23, 29].
-// ===============================================
-// Autor: Josue Arenas Herrera
-// Fecha: 24 de octubre de 2024
-// Descripción: Programa en C# que genera una 
-//              lista de números primos en un 
-//              rango dado.
-// ===============================================
+% ===============================================
+% Autor: Josue Arenas Herrera
+% Fecha: 24 de octubre de 2024
+% Descripción: Programa en C# que genera una 
+%              lista de números primos en un 
+%              rango dado.
+% ===============================================
 
 % using System;
 % using System.Collections.Generic;
