@@ -1,4 +1,3 @@
-```c#
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -63,4 +62,4 @@ rnd_select(L, N, [X|R]) :-
 % ?- rnd_select([a, b, c, d, e], 3, R).
 % R = [b, a, d]. % El resultado puede variar por ser aleatorio.
 % ----------------------------------------------
-```
+
