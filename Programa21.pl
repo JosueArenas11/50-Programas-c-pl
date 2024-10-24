@@ -1,5 +1,4 @@
-```c#
-% ===============================================
+
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
 % Descripción: Programa en Prolog que inserta un 
@@ -55,4 +54,4 @@ insert_at(X, [H|T], K, [H|R]) :-
 % ?- insert_at(X, [a, b, c, d], X, 3, R).
 % R = [a, b, X, c, d].
 % ----------------------------------------------
-```
+
