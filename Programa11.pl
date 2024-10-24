@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -97,4 +97,3 @@ modify([[N,X]|T], [[N,X]|R]) :- N > 1, modify(T, R).
 % ?- encode_modified([a, a, b, c, c, d, e], R).
 % R = [[2, a], b, [2, c], d, e].
 % ----------------------------------------------
-```
