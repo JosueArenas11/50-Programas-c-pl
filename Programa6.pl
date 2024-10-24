@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -44,5 +44,5 @@ palindrome(L) :- reverse_list(L, L).
 % Ejemplo de uso:
 % ?- palindrome([a, b, a]).
 % true.
-% ----------------------------------------------
-```
+% --------------------------------------------
+
