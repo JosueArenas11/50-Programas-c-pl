@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -71,4 +71,3 @@ transform([[X|Xs]|Ys], [[N,X]|Zs]) :-
 % ?- encode([a, a, b, c, c, d, d, d], Encoded).
 % Encoded = [[2, a], [1, b], [2, c], [3, d]].
 % ----------------------------------------------
-```
