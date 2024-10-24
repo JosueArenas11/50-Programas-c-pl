@@ -1,4 +1,4 @@
-```C#
+```pl
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
