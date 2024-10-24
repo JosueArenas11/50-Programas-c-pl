@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 17 de octubre de 2024
@@ -68,4 +68,4 @@ compress([X,Y|T], [X|R]) :- X \= Y, compress([Y|T], R).
 % ?- compress([a, a, b, c, c, c, d], R).
 % R = [a, b, c, d].
 % ----------------------------------------------
-```
+
