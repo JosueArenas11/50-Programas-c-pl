@@ -1,4 +1,4 @@
-```c#
+
 % ===============================================
 % Autor: Josue Arenas Herrera
 % Fecha: 19 de octubre de 2024
@@ -73,4 +73,4 @@ encode_helper(Rest, _, Acc, Acc, Rest).
 % ?- length_frequency([[a, b], [c], [d, e], [f, g, h]], S).
 % S = [[c], [a, b], [d, e], [f, g, h]].
 % ----------------------------------------------
-```
+
